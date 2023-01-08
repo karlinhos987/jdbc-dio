@@ -1,0 +1,5 @@
+one\digitalinnovation\jdbc\configuration\DB.class
+one\digitalinnovation\jdbc\BucarTodosClientesExecute.class
+one\digitalinnovation\jdbc\dao\ClienteDAO.class
+one\digitalinnovation\jdbc\IserirUmNovoClienteExecute.class
+one\digitalinnovation\jdbc\entity\Cliente.class
